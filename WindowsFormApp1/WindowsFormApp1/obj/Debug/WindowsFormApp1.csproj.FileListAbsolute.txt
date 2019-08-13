@@ -1,0 +1,9 @@
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\obj\Debug\WindowsFormApp1.Menu.resources
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\obj\Debug\WindowsFormApp1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\obj\Debug\WindowsFormApp1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\obj\Debug\WindowsFormApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\bin\Debug\WindowsFormApp1.exe.config
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\bin\Debug\WindowsFormApp1.exe
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\bin\Debug\WindowsFormApp1.pdb
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\obj\Debug\WindowsFormApp1.exe
+C:\Users\Alumno\source\repos\WindowsFormApp1\WindowsFormApp1\obj\Debug\WindowsFormApp1.pdb
